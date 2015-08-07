@@ -1,4 +1,5 @@
 <Modules>
   <Module PersistentId="68FC47A3-A8BC-4F7B-AC74-CEACBC3B4678" ModuleId="Webview" />
-  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="d:Miscellaneous Files" ModuleId="System.Windows.Forms" />
+  <Module PersistentId="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" ModuleId="System.Windows.Forms_1" />
 </Modules>
